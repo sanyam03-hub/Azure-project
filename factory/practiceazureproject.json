@@ -1,0 +1,9 @@
+{
+	"name": "practiceazureproject",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e2a8bdb-228c-4fd9-bee8-b4e7c78eaf56",
+		"tenantId": "d4963ce2-af94-4122-95a9-644e8b01624d"
+	}
+}
